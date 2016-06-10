@@ -1,5 +1,2 @@
 # useful-code-snippets
-
-This is a test of the push from brackets
-
-# testing again
+Simple repository for useful scripts for ServiceNow development/administration.
